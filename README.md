@@ -60,6 +60,7 @@ A small and quick example could be a Cloud flow like the following:
 ![image](https://github.com/walcivar/JsonTreeViewer/assets/5630463/e15e7942-124c-4694-87b7-c09428036755)
 
 The Compose action contains the following JSON example:
+
 [
   {
     "name": "Level 1 - Node 1",
@@ -112,6 +113,7 @@ The Compose action contains the following JSON example:
     ]
   }
 ]
+
 Here is worth mentioning that the JSON structure it’s really important because the structure it’s defined in the types.ts file.
 So in my case I’ve worked with a JSON that has 4 properties on each node/level and a fifth property which is an array of children nodes, this array is called “children”.
 If you have a different JSON structure then you will need to update the types.ts file.
