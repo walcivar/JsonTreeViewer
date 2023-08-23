@@ -1,0 +1,48 @@
+﻿  Determining projects to restore...
+  All projects are up-to-date for restore.
+  npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
+  
+  > pcf-project@1.0.0 clean
+  > pcf-scripts clean "--noColor" "--buildMode" "development" "--outDir" "C:\\Users\\wilmer.alcivar\\source\\repos\\JsonTreeViewer\\out\\controls" "--buildSource" "MSBuild"
+  
+  [11:40:31] [clean]  Initializing...
+  [11:40:31] [clean]  Cleaning build outputs...
+  [11:40:31] [clean]  Succeeded
+  Cleaning output directory: bin\Debug\, Intermediate directory: obj\Debug\ and Solution Packager working directory: obj\Debug\
+  Removing log file: obj\Debug\SolutionPackager.log and generated solution package: bin\Debug\PowerAppsTools_p365i.zip
+  npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
+  
+  > pcf-project@1.0.0 build
+  > pcf-scripts build "--noColor" "--buildMode" "development" "--outDir" "C:\\Users\\wilmer.alcivar\\source\\repos\\JsonTreeViewer\\out\\controls" "--buildSource" "MSBuild"
+  
+  [11:40:38] [build]  Initializing...
+  [11:40:39] [build]  Validating manifest...
+  [11:40:39] [build]  Validating control...
+  [11:40:40] [build]  Generating manifest types...
+  DeprecationWarning: 'createInterfaceDeclaration' has been deprecated since v4.8.0. Decorators are no longer supported for this function. Callers should switch to an overload that does not accept a 'decorators' parameter.
+  [11:40:40] [build]  Generating design types...
+  [11:40:40] [build]  Running ESLint...
+  [11:40:41] [build]  Compiling and bundling control...
+  [BABEL] Note: The code generator has deoptimised the styling of C:\Users\wilmer.alcivar\source\repos\JsonTreeViewer\node_modules\react-dom\cjs\react-dom.development.js as it exceeds the max of 500KB.
+  [Webpack stats]:
+  asset bundle.js 2.15 MiB [emitted] (name: main)
+  runtime modules 1.17 KiB 6 modules
+  modules by path ./node_modules/@fluentui/ 868 KiB 338 modules
+  modules by path ./node_modules/react-modal/lib/ 48.8 KiB 11 modules
+  modules by path ./JsonTreeViewer/ 20.9 KiB 6 modules
+  modules by path ./node_modules/react-dom/ 765 KiB 6 modules
+  modules by path ./node_modules/style-loader/dist/runtime/*.js 5.84 KiB 6 modules
+  modules by path ./node_modules/prop-types/ 26.6 KiB 5 modules
+  modules by path ./node_modules/react/ 78.1 KiB 2 modules
+  modules by path ./node_modules/css-loader/dist/runtime/*.js 2.31 KiB 2 modules
+  modules by path ./node_modules/react-is/ 7.57 KiB
+    ./node_modules/react-is/index.js 195 bytes [built] [code generated]
+    ./node_modules/react-is/cjs/react-is.development.js 7.38 KiB [built] [code generated]
+  + 8 modules
+  webpack 5.88.2 compiled successfully in 9978 ms
+  [11:40:52] [build]  Generating build outputs...
+  [11:40:52] [build]  Succeeded
+  Running Solution Packager to build package type: Unmanaged bin\Debug\PowerAppsTools_p365i.zip
+  Solution: bin\Debug\PowerAppsTools_p365i.zip generated.
+  Solution Package Type: Unmanaged generated.
+  Completed intermiediate files clean up.

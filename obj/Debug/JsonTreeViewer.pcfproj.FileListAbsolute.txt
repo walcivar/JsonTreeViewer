@@ -1,0 +1,2 @@
+C:\Users\wilmer.alcivar\source\repos\JsonTreeViewer\obj\Debug\JsonTreeViewer.pcfproj.AssemblyReference.cache
+C:\Users\wilmer.alcivar\source\repos\JsonTreeViewer\obj\Debug\JsonTreeViewer.pcfproj.CoreCompileInputs.cache

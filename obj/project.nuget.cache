@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w0cOkcgS6Ot8x42rSnh6PeJMoji3RyCCGulptlih4pDfNn5C7UP6ioyUkhYFDCHmjKEj6t9l7effJtydgfEqTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wilmer.alcivar\\source\\repos\\JsonTreeViewer\\JsonTreeViewer.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wilmer.alcivar\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\wilmer.alcivar\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\wilmer.alcivar\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.26.5\\microsoft.powerapps.msbuild.pcf.1.26.5.nupkg.sha512"
+  ],
+  "logs": []
+}
